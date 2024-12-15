@@ -1,0 +1,7 @@
+NPM does not stand for node package manager. 
+Its the main repopsitory which manages all the other packages
+package.json is configuration file for NPM
+difference between tilde(~) and caret(^) in package.json
+package.json vs package lock.json
+Transitive dependencies means dependencies depnding on other dependencies
+parcelJS know about it in depth
