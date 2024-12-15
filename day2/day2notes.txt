@@ -5,3 +5,5 @@ difference between tilde(~) and caret(^) in package.json
 package.json vs package lock.json
 Transitive dependencies means dependencies depnding on other dependencies
 parcelJS know about it in depth
+dont push dist and parcel cache to github
+browser list
