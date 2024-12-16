@@ -1,0 +1,2 @@
+npm run start and npm start are same becz npm rrserved start keyword
+render will replace what ever is inside index.html
