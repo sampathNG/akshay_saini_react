@@ -1,0 +1,6 @@
+component composition
+props are similar to arguements in javascript functions
+install json viewer
+config driven ui
+key is required for looping uniquely identify each item in list
+using index as key is bad practise

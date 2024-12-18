@@ -1,8 +1,0 @@
-npm run start and npm start are same becz npm rrserved start keyword
-render will replace what ever is inside index.html
-JSX
-parcel`s package babel traspilies jsx into react create elemengt
-JSX only supports camelCase for attributes
-component composition means making two components into one by place them one over the other
-and there by making new component
-to execute java script inside in JSX keep js code inside curly braces in JSX
